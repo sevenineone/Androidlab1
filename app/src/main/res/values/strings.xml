@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">lab!</string>
+    <string name="ouch">ouch</string>
+    <string name="cheese_salami">cheese salami</string>
+    <string name="wasd">wasd</string>
+    <string name="todo">TODO</string>
+</resources>
