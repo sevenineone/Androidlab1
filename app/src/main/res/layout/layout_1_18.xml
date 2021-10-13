@@ -5,7 +5,7 @@
     android:orientation="vertical">
 
     <TextView
-        android:layout_width="match_parent"
+        android:layout_width="140dp"
         android:layout_height="0dp"
         android:layout_weight="1"
         android:text="@string/wasd"
@@ -14,7 +14,7 @@
         />
 
     <ImageView
-        android:layout_width="match_parent"
+        android:layout_width="140dp"
         android:layout_height="0dp"
         android:layout_weight="1"
         android:contentDescription="@string/todo"
@@ -22,7 +22,7 @@
         android:layout_gravity="center"
         />
     <Button
-        android:layout_width="match_parent"
+        android:layout_width="140dp"
         android:layout_height="0dp"
         android:layout_weight="1"
         android:layout_gravity="start"/>
